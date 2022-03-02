@@ -7,7 +7,7 @@
   🧰 Currently building a Blog App. <br>
   🤹‍♀️ Some of my projects: <br>
     <ul>
-      <li><a href="https://github.com/agnesgab/stock-api">Stock API</a> - check US latest stock markets</li>
+      <li><a href="https://github.com/agnesgab/stock-api">Stock API</a> - keep track of US stock markets</li>
       <li><a href="https://github.com/agnesgab/oop_slots">Slot machine</a> - Play Slots!</li>
       <li><a href="https://github.com/agnesgab/classes_and_objects">OOP Apps</a> - Selection of simple Apps</li>
     </ul><br>
