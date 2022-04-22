@@ -8,8 +8,8 @@
   🤹‍♀️ Some of my projects: <br>
     <ul>
       <li><a href="https://github.com/agnesgab/booking-app">Booking App</a> - Book an Apartment!</li>
+      <li><a href="https://github.com/agnesgab/tindr">Tindr app</a> - Dummie Tinder</li>
       <li><a href="https://github.com/agnesgab/stock-api">Stock API</a> - keep track of US stock markets</li>
-      <li><a href="https://github.com/agnesgab/oop_slots">Slot machine</a> - Play Slots!</li>
     </ul><br>
   👉 How to reach me: <br>
       <a href="https://www.linkedin.com/in/agnese-gabrisa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
